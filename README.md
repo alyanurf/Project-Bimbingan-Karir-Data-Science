@@ -1,2 +1,2 @@
 # Project-Bimbingan-Karir-Data-Science
-BKSD-1
+BKDS-1
