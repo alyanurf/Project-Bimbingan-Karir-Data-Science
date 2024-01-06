@@ -103,7 +103,7 @@ st.set_page_config(
   page_icon = ":heart:"
 )
 
-st.title("Alya Heart Disease")
+st.title(" Heart Disease Workshop BK <3")
 st.write(f"**_Model's Accuracy_** :  :green[**{accuracy}**]% (:red[_Do not copy outright_])")
 st.write("")
 
